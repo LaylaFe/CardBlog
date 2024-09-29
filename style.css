@@ -13,7 +13,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 1rem;
 }
 main {
     background: #fff;
@@ -35,10 +34,8 @@ main section {
     height: 100%;
     width: 100%;
     padding: 1.5rem;
-    
 }
 main section h1{
-    
     text-align: left;
     color: hsl(0, 0%, 7%);
     font-weight: 800;
