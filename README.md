@@ -41,7 +41,7 @@ Aprendi a adicionar o media screen para fazer dimensionamentos nas páginas para
   @media only screen and (){}
 ```
 
-#📌 Imagem Demonstração
+# 📌 Imagem Demonstração
 
 ![](design/mobile-design.jpg)
 
